@@ -59,3 +59,6 @@ export default function WeatherApp() {
     return form;
   }
 }
+<footer>
+  <a href="https://github.com/sibo-gumbo/weather-react.git">Open-source code</a>
+</footer>;
